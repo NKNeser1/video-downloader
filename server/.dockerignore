@@ -1,0 +1,7 @@
+node_modules/
+downloads/
+test-video.mp4
+*.bak
+.git/
+.env
+.env.*
